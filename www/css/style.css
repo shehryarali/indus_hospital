@@ -1,0 +1,45 @@
+/* Empty. Add your own CSS if you like */
+
+.no-border .item{
+    border: none !important;
+}
+
+.padding-40 {
+    padding-top: 40px !important;  
+}
+
+.no-border .item-image img{
+    padding: 0;
+    width: 35% !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.no-border .item h4 {
+    text-align: center !important;
+}
+
+.grey-bg {
+    background-color: #ebebeb;
+}
+
+ion-view, .item {
+    background-color: #ebebeb !important;
+}
+
+input {
+    background-color: #ebebeb !important;
+}
+
+.scroll {
+    height: 100%;
+}
+ 
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.tab-item-active {
+    border: none !important;
+}
